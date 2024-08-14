@@ -1,5 +1,3 @@
-package scrap;
-
 import java.util.Scanner;
 
 public class Display {
